@@ -20,7 +20,7 @@ My projects focus on solving business problems through data cleaning, analysis, 
 [Excel data analytics](https://github.com/Ekemini024/Excel-Data-Analysis)
 
 ## 🤝 Let's Connect
-- [LinkedIn]:(https://www.linkedin.com/in/ekemini-essien-0bab08357)
+- [LinkedIn](https://www.linkedin.com/in/ekemini-essien-0bab08357)
 - Email: ekeminiimoh2019@gmail.com
 
 I'm open to data analytics opportunities, collaborations, and freelance projects where I can use data to solve business problems and support better decision-making.
